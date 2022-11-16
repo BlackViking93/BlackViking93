@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BlackViking93
-- 👀 I’m interested in Software Engineering and Cyber Security 
-- 🌱 I’m currently learning Software Engineering at ALX
-- 💞️ I’m looking to collaborate on any project related to Software Engineering 
+- 👋 Hi, I’m @BlackViking93.
+- 👀 I’m interested in Software Engineering and Cyber Security.
+- 🌱 I’m currently learning Software Engineering at ALX.
+- 💞️ I’m looking to collaborate on any project related to Software Engineering and Cyber Security.
 - 📫 manlikeavidd@gmail.com
 
 <!---
